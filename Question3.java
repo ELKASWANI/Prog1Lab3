@@ -22,7 +22,7 @@ public class Question3{
         if(temperature <= 0){
             System.out.println("\nThe temperature is below zero");
         }else if(temperature >= 0){
-            System.out.println("\nThe temperatureis above the zero");
+            System.out.println("\nThe temperature is above the zero");
         }
     }
 
