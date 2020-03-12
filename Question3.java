@@ -6,7 +6,7 @@ Written By MOHAMMAD EL KASWANI
 */
 import java.util.*;
 
-public class Quetion3{
+public class Question3{
 
     public static void main (String[] args){
 
