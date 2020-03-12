@@ -1,1 +1,5 @@
-# Prog1Lab3
+1. Write a program that calculates the area of a circle, based on a radius given by the user. If the input is negative, or zero, the program should not calculate the area, but warn the user of the mistake.
+2. Write a program that calculates the Body Mass Index (BMI) of a person. The user should input the weight in pounds and height in feet, and the program should output the weight converted to kilograms, height converted to meters, the calculated BMI (BMI = Kg/(m2)), and its classification as underweight, normal, overweight or obese.
+3. Write a program that prompts the user for the current temperature in Celsius and outputs different messages if it is above or below zero. You should use the conditional operator (?:) in this question.
+4. Write a program that provides a menu with 5 options of conversion operations (eg. meters to feet, CAD to USD, Celsius to Fahrenheit, ...). Based on the user selection, the program should proceed with proper instructions, input and output operations.
+5. Write a program that prompts the user for his/her date of birth in the format YYYY-MM-DD and outputs the user age, plus a message in the lines: “Your birthday is in XX days”, or “Your birthday was XX days ago” (substitute XX by the calculated amount of days), depending if the date in the current year has passed or not.
